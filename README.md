@@ -21,8 +21,7 @@ A modern, responsive project management dashboard built with React and Tailwind 
 - React
 - Tailwind CSS
 - JavaScript (ES6+)
-- Vite
-- Lucide React
+- React
 - HTML5 and CSS3
 - Git and GitHub
 
